@@ -12,3 +12,5 @@ New. And more.
 New line.
 
 Travelintatty added this.
+
+Adding ResourceAnalysis models to repository.
