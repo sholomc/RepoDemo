@@ -1,0 +1,20 @@
+package IntegratedSCS
+public
+
+  	system SCS -- sensor control system template
+  	
+  	end SCS;
+
+	system implementation SCS.singletier0
+		subcomponents
+	
+			ControlSystem: system;
+			sensor1: device;
+			sensor2: device;
+			actuator:device;
+		
+
+	end SCS.singletier0;
+
+	
+end IntegratedSCS;
