@@ -2,7 +2,6 @@ package SoftwareParts
 public
 	with DataModel;
 	
-	with DataModel;
 	
 	thread sensor_sense_thread
 		features
